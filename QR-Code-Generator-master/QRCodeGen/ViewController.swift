@@ -13,7 +13,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var textField: UITextField!
     
     @IBOutlet weak var imgQRCode: UIImageView!
-    
+    @IBOutlet weak var imgQRCode: UIImageVie1w!
+
     @IBOutlet weak var btnAction: UIButton!
     
     @IBOutlet weak var slider: UISlider!
